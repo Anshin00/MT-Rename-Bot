@@ -24,7 +24,7 @@ Tutorial Video👇
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 
 Deploy To Hereku👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anshin00/MT-Rename-Bot)
 </pre>
 </p>
 </details>
@@ -40,7 +40,7 @@ If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Throu
 [Telegram](https://telegram.dog/No_OnE_Kn0wS_Me) 
 
 Also Support Our
-[Mo Tech YT](https://telegram.dog/Mo_Tech_YT) 
+[SPK MOVIES](https://t.me/+1NUDx3569sNhODY9) 
 </pre>
 </p>
 </details>
